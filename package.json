@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Moldeador/string-calculator/issues"
   },
-  "homepage": "https://github.com/Moldeador/string-calculator#readme"
+  "homepage": "https://github.com/Moldeador/string-calculator#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
